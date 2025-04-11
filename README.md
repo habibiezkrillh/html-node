@@ -1,2 +1,2 @@
 # First backend project for HTML
-https://badgen.net/badge/:subject/:status/:color?icon=github
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
